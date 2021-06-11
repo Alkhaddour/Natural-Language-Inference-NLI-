@@ -21,4 +21,4 @@ Example from the training split:
 
 In this notebook [Fine Tune RoBERTa on MRPC Dataset](https://github.com/YamenHabib/Natural-Language-Inference-NLI-/blob/main/Fine%20Tune%20RoBERTa%20on%20MRPC%20Dataset.ipynb) we added two fully connected layers to Roberta model and fine tuned it. we got a 97% acc on the training set and 86.2% on the testing set.
 
-We managed to enhance the accuracy of the model by pretrain it on [STS dataset](https://github.com/YamenHabib/Natural-Language-Inference-NLI-/tree/main/stsbenchmark) berfore fine tuning it on MRPC. we got a 87.5% accuracy on the testing set.
+We managed to enhance the accuracy of the model by pretrain it on [STS dataset](https://github.com/YamenHabib/Natural-Language-Inference-NLI-/tree/main/stsbenchmark) berfore fine tuning it on MRPC. We got a 99.9% acc on the training set and 87.8% on the testing set.
