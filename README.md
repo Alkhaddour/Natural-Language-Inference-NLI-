@@ -1,6 +1,6 @@
 # Natural-Language-Inference
 
-In this repository we are trying to solve [GLUE](https://gluebenchmark.com/) benchmark (mainly [MRPC](https://www.microsoft.com/en-us/download/details.aspx?id=52398) dataset) by finetuning [RoBERTa](https://huggingface.co/transformers/model_doc/roberta.html) model.
+In this repository we are trying to solve [GLUE](https://gluebenchmark.com/) benchmark (mainly [MRPC](https://www.microsoft.com/en-us/download/details.aspx?id=52398) dataset) by fine-tuning [RoBERTa](https://huggingface.co/transformers/model_doc/roberta.html) model.
 
 ## MRPC dataset: 
 The Microsoft Research Paraphrase Corpus (Dolan & Brockett, 2005) is a corpus of sentence pairs automatically extracted from online news sources, with human annotations for whether the sentences in the pair are semantically equivalent.
