@@ -16,7 +16,8 @@ Example from the training split:
 {'idx': 58,
  'label': 1,
  'sentence1': 'Several of the questions asked by the audience in the fast-paced forum were new to the candidates .',
- 'sentence2': 'Several of the audience questions were new to the candidates as well .'}
+ 'sentence2': 'Several of the audience questions were new to the candidates as well .'
+ }
 ```
 
 In this notebook [Fine Tune RoBERTa on MRPC Dataset](https://github.com/YamenHabib/Natural-Language-Inference-NLI-/blob/main/Fine%20Tune%20RoBERTa%20on%20MRPC%20Dataset.ipynb) we added two fully connected layers to Roberta model and fine tuned it. we got a 97% acc on the training set and 86.2% on the testing set.
